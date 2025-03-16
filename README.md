@@ -3,6 +3,29 @@ Android 워크북 &amp; 미션 제출 레포지토리 (ദ്ദി⩌𖥦⩌)
 
 ## 💻 Member
 
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/username1">
+        <img src="https://github.com/username1.png" width="100px;" alt="리원 프로필"/>
+        <br />
+        <sub><b>리원/황지영</b></sub>
+      </a>
+      <br />
+      <sub>Android 개발자</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/username2">
+        <img src="https://github.com/username2.png" width="100px;" alt="썽아 프로필"/>
+        <br />
+        <sub><b>썽아/박성아</b></sub>
+      </a>
+      <br />
+      <sub>Android 개발자</sub>
+    </td>
+  </tr>
+</table>
+
 ## 📁 디렉토리 구조
 
 ```bash
