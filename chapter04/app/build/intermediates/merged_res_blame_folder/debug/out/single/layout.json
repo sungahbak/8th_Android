@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.example.chapter3.app-mergeDebugResources-30:/layout/fragment_locker.xml",
+        "source": "com.example.chapter3.app-main-33:/layout/fragment_locker.xml"
+    },
+    {
+        "merged": "com.example.chapter3.app-mergeDebugResources-30:/layout/activity_main.xml",
+        "source": "com.example.chapter3.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.chapter3.app-mergeDebugResources-30:/layout/fragment_home.xml",
+        "source": "com.example.chapter3.app-main-33:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.example.chapter3.app-mergeDebugResources-30:/layout/activity_song.xml",
+        "source": "com.example.chapter3.app-main-33:/layout/activity_song.xml"
+    },
+    {
+        "merged": "com.example.chapter3.app-mergeDebugResources-30:/layout/fragment_look.xml",
+        "source": "com.example.chapter3.app-main-33:/layout/fragment_look.xml"
+    },
+    {
+        "merged": "com.example.chapter3.app-mergeDebugResources-30:/layout/fragment_search.xml",
+        "source": "com.example.chapter3.app-main-33:/layout/fragment_search.xml"
+    }
+]
